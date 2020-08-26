@@ -28,6 +28,11 @@ Detect and recognize single/multi-faces from camera;
    .. image:: introduction/face_reco_single_person.png
       :align: center
 
+   当单张人脸 with OT (can improve FPS from 1.x to 20.x) / When single-face:
+
+   .. image:: introduction/face_reco_single_ot.png
+      :align: center
+
    当多张人脸 / When multi-faces:
 
    一张已录入人脸 + 未录入 unknown 人脸 / 1x known face + 2x unknown face:
